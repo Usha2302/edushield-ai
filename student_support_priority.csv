@@ -1,0 +1,886 @@
+Student_Record_ID,Risk_Rank,Predicted_Dropout_Probability,Priority_Level,Recommended_Support
+1365,1,0.9999998917524808,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1572,2,0.9999996488041062,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2687,3,0.9999991543927448,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2253,4,0.9999972425999941,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+477,5,0.9999946026318506,High,Academic counselling and subject support
+4034,6,0.9999912452292594,High,Academic counselling and subject support
+3909,7,0.9999841193918385,High,Academic counselling and subject support
+4050,8,0.9999787093303292,High,Academic counselling and subject support
+3281,9,0.999966238579926,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2442,10,0.9999551934587666,High,Academic counselling and subject support
+1613,11,0.9999300758776217,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3487,12,0.9999146249236276,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1416,13,0.9999144657041811,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3875,14,0.9999036600649645,High,Academic counselling and subject support
+1208,15,0.9998850840873865,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1864,16,0.9998290353961377,High,Academic counselling and subject support
+917,17,0.9996085727244612,High,Academic counselling and subject support
+723,18,0.9993917016475796,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1321,19,0.9987426217553834,High,Academic counselling and subject support
+1408,20,0.9985893863037852,High,Academic counselling and subject support
+3363,21,0.9983700540266329,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3721,22,0.9982553192693727,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+871,23,0.9979865555990446,High,Academic counselling and subject support
+1388,24,0.9978822760446596,High,Academic counselling and subject support
+1728,25,0.9975792551994312,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4238,26,0.9973938823310762,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2340,27,0.9972413844462941,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4169,28,0.9971409420567215,High,Academic counselling and subject support
+3858,29,0.9967437931615226,High,Academic counselling and subject support
+600,30,0.9967382148455085,High,Academic counselling and subject support
+1748,31,0.9965289420528896,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2,32,0.9962223227286058,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3287,33,0.9960149667544219,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3557,34,0.9959003913809106,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1860,35,0.9955680780469502,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2725,36,0.9953986346875496,High,Academic counselling and subject support
+3299,37,0.9953074757556254,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2811,38,0.995274198614353,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2244,39,0.9945220506922184,High,Academic counselling and subject support
+2329,40,0.9940828143285207,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+56,41,0.9940550915103608,High,Academic counselling and subject support
+2781,42,0.9933331659625356,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4181,43,0.9931287953749018,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2209,44,0.992555755076274,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2439,45,0.9922268500899027,High,Academic counselling and subject support
+2440,46,0.9921815748287184,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+433,47,0.9921201898721757,High,Academic counselling and subject support
+3641,48,0.9920139514702999,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4306,49,0.9916304751602377,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+893,50,0.9915274202771265,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1359,51,0.9914997988273043,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3714,52,0.991316145588343,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1533,53,0.9903719138743886,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+838,54,0.9889711289131401,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1001,55,0.9884686442552731,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4220,56,0.9875741080153122,High,Academic counselling and subject support
+2020,57,0.9864789437776916,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1828,58,0.9862676908529946,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2843,59,0.9859443031738923,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3667,60,0.9857841462700934,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2581,61,0.9849482858017328,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+511,62,0.9848286021810327,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3847,63,0.9844266891861552,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1538,64,0.9841289345668959,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3799,65,0.9830846596139373,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2676,66,0.9822242527243444,High,Academic counselling and subject support
+966,67,0.9814932462466853,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4010,68,0.9809643835458202,High,Academic counselling and subject support
+2191,69,0.9797713096052609,High,Academic counselling and subject support
+734,70,0.9789332447641128,High,Academic counselling and subject support
+1095,71,0.9778142171895149,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+745,72,0.9764817794768458,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3947,73,0.9764774679474347,High,Academic counselling and subject support
+2504,74,0.976103362020826,High,Academic counselling and subject support
+1892,75,0.9751518742006009,High,Academic counselling and subject support
+551,76,0.974070556502537,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2206,77,0.9737706426872724,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3564,78,0.9727482450518468,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2407,79,0.9725086121710435,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2248,80,0.9654203744038876,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3190,81,0.9650132065482135,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3647,82,0.9647479850025932,High,Academic counselling and subject support
+1378,83,0.9632680631644126,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3413,84,0.9618092139475062,High,Academic counselling and subject support
+1862,85,0.9606842830409598,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3321,86,0.9600885359953465,High,Academic counselling and subject support
+2752,87,0.9590000896935787,High,Academic counselling and subject support
+2046,88,0.9580568567200243,High,Academic counselling and subject support
+972,89,0.9579003430612064,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3089,90,0.9574317908364385,High,Academic counselling and subject support
+309,91,0.9573294340471418,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4276,92,0.9572008783388269,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4312,93,0.9541703666108761,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1731,94,0.9499441935228592,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3314,95,0.9497318749490122,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2396,96,0.9493655168523739,High,Academic counselling and subject support
+1410,97,0.9490159078830711,High,Academic counselling and subject support
+2523,98,0.9465554226883458,High,Academic counselling and subject support
+2793,99,0.9442086144000726,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3589,100,0.941542183126158,High,Academic counselling and subject support
+4085,101,0.9396097395518672,High,Financial counselling and scholarship guidance
+2801,102,0.9383076899369512,High,Academic counselling and subject support
+1866,103,0.9381261472533035,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3292,104,0.933753329337905,High,Academic counselling and subject support
+1210,105,0.9283659752644471,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4077,106,0.9271361237735019,High,Academic counselling and subject support
+2968,107,0.9258888611264632,High,Academic counselling and subject support
+3103,108,0.9231759199567302,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2499,109,0.9208607195825708,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+182,110,0.9201411234968959,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+955,111,0.9131908324454155,High,Academic counselling and subject support
+2289,112,0.909085383633781,High,Academic counselling and subject support
+566,113,0.9086708530392782,High,Academic counselling and subject support
+942,114,0.9073833815234067,High,Academic counselling and subject support
+3934,115,0.9024568355030707,High,Academic counselling and subject support
+1013,116,0.9021295565201041,High,Academic counselling and subject support
+4012,117,0.9007214141373893,High,Academic counselling and subject support
+703,118,0.8972388277224735,High,Academic counselling and subject support
+4194,119,0.8873758043380134,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3866,120,0.884093672196152,High,Academic counselling and subject support
+3462,121,0.8804654231516468,High,Academic counselling and subject support
+2615,122,0.8767437973700911,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4384,123,0.8750060728030552,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3572,124,0.8746478711299046,High,Academic counselling and subject support
+3811,125,0.8705460428897951,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+791,126,0.8700808980811449,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3471,127,0.8657954402746897,High,Financial counselling and scholarship guidance
+2716,128,0.8565315352904574,High,Academic counselling and subject support
+3882,129,0.8554412618770135,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1814,130,0.8515534059065303,High,Academic counselling and subject support
+2294,131,0.8509441323819578,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1675,132,0.8485909804911499,High,Financial counselling and scholarship guidance
+4246,133,0.8460585119038461,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2282,134,0.8432959615179063,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2069,135,0.8414712823398441,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3927,136,0.8372422540886088,High,Financial counselling and scholarship guidance
+807,137,0.8303297825026086,High,Financial counselling and scholarship guidance
+4037,138,0.8297222245429399,High,Academic counselling and subject support
+308,139,0.8267798109263433,High,Regular academic progress monitoring
+3408,140,0.8247006573482651,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4415,141,0.823812668598303,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3784,142,0.8202274961776164,High,Academic counselling and subject support
+1686,143,0.8198651611059992,High,Academic counselling and subject support
+3482,144,0.8172196143168636,High,Academic counselling and subject support
+1087,145,0.8167448114825024,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+730,146,0.8080549892494862,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2322,147,0.8076506197133427,High,Academic counselling and subject support
+3181,148,0.7974779358239038,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3220,149,0.7956319509106901,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3094,150,0.7859588758397343,High,Academic counselling and subject support
+3172,151,0.7856471104688283,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1987,152,0.785509486097096,High,Academic counselling and subject support
+2700,153,0.7833769843629215,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+1599,154,0.7818359755144701,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3194,155,0.7803153184360204,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+4208,156,0.7799538721273279,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3797,157,0.779309968053243,High,Academic counselling and subject support
+973,158,0.7759601329986804,High,Academic counselling and subject support
+3676,159,0.7758560452354665,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2873,160,0.7734169527649583,High,Academic counselling and subject support
+205,161,0.770386327176366,High,Academic counselling and subject support
+3637,162,0.7649175623493594,High,Financial counselling and scholarship guidance
+3860,163,0.7641449217443529,High,Academic counselling and subject support
+2035,164,0.7625334138636694,High,Academic counselling and subject support
+1717,165,0.7618245547475607,High,Academic counselling and subject support
+2760,166,0.7609570282458124,High,Academic counselling and subject support
+2192,167,0.7594312111799749,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3590,168,0.7572437641762233,High,Academic counselling and subject support
+3848,169,0.747962560356937,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2846,170,0.7432896525151904,High,Academic counselling and subject support
+3297,171,0.7410948822855354,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+2939,172,0.7384679658458152,High,Academic counselling and subject support
+3896,173,0.7366321304271383,High,Academic counselling and subject support
+3824,174,0.7355725380887183,High,Academic counselling and subject support
+4322,175,0.7247151962728212,High,Academic counselling and subject support; Financial counselling and scholarship guidance
+3290,176,0.7230534252963994,High,Academic counselling and subject support
+3592,177,0.7179041446574047,High,Academic counselling and subject support
+2296,178,0.7151427535320821,Medium,Academic counselling and subject support
+1213,179,0.6931620631005722,Medium,Academic counselling and subject support
+2367,180,0.6834799535994752,Medium,Regular academic progress monitoring
+3684,181,0.6804925585347674,Medium,Academic counselling and subject support
+1405,182,0.6794586720474518,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1727,183,0.676885133456193,Medium,Academic counselling and subject support
+862,184,0.6745023948463744,Medium,Academic counselling and subject support
+597,185,0.659830383724034,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1431,186,0.6588210506134989,Medium,Academic counselling and subject support
+3351,187,0.6501412118609069,Medium,Academic counselling and subject support
+2159,188,0.6447478962320887,Medium,Academic counselling and subject support
+482,189,0.6434158725183868,Medium,Academic counselling and subject support
+1205,190,0.6431735498267467,Medium,Academic counselling and subject support
+502,191,0.6424174478648629,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+562,192,0.6380710252550144,Medium,Academic counselling and subject support
+331,193,0.6364014081121255,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+4170,194,0.6354986913076286,Medium,Academic counselling and subject support
+1582,195,0.634914413116682,Medium,Academic counselling and subject support
+737,196,0.6218075737028605,Medium,Academic counselling and subject support
+387,197,0.6203717382048998,Medium,Academic counselling and subject support
+2428,198,0.6197069657702541,Medium,Academic counselling and subject support
+2848,199,0.6193730063932592,Medium,Academic counselling and subject support
+1965,200,0.6177894572120536,Medium,Academic counselling and subject support
+2413,201,0.6174854512458929,Medium,Academic counselling and subject support
+4402,202,0.6166455380985837,Medium,Academic counselling and subject support
+3577,203,0.6109213484261332,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+536,204,0.6086952062541727,Medium,Academic counselling and subject support
+1856,205,0.6027147135847415,Medium,Financial counselling and scholarship guidance
+2653,206,0.6006751015443942,Medium,Academic counselling and subject support
+2203,207,0.5975768719334459,Medium,Academic counselling and subject support
+226,208,0.5943291244199135,Medium,Regular academic progress monitoring
+76,209,0.5927595634669053,Medium,Academic counselling and subject support
+2368,210,0.5900268869745968,Medium,Financial counselling and scholarship guidance
+1344,211,0.5866710286691311,Medium,Financial counselling and scholarship guidance
+2468,212,0.573296297119432,Medium,Academic counselling and subject support
+1968,213,0.5726453718461452,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1706,214,0.5648850503138344,Medium,Academic counselling and subject support
+3097,215,0.5639094094433513,Medium,Academic counselling and subject support
+354,216,0.5583016595150797,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+4033,217,0.5566377151708494,Medium,Academic counselling and subject support
+186,218,0.5552379905353757,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1038,219,0.5546997632625383,Medium,Regular academic progress monitoring
+3444,220,0.5546568572980465,Medium,Financial counselling and scholarship guidance
+3605,221,0.5510900733014372,Medium,Academic counselling and subject support
+701,222,0.5475574453764592,Medium,Academic counselling and subject support
+2405,223,0.5443795213663155,Medium,Financial counselling and scholarship guidance
+1787,224,0.5417604880030629,Medium,Academic counselling and subject support
+4323,225,0.5365111866687943,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+4180,226,0.5297369572185747,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+2265,227,0.5290730204962452,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+3828,228,0.5289190122574638,Medium,Academic counselling and subject support
+1360,229,0.5251534944202844,Medium,Academic counselling and subject support
+3995,230,0.5197359919774203,Medium,Academic counselling and subject support
+2196,231,0.519294502461764,Medium,Academic counselling and subject support
+4082,232,0.5173713978276394,Medium,Academic counselling and subject support
+37,233,0.5146450266015268,Medium,Academic counselling and subject support
+962,234,0.49768783670902317,Medium,Academic counselling and subject support
+1606,235,0.4925829855367794,Medium,Academic counselling and subject support
+3786,236,0.49124149234702275,Medium,Academic counselling and subject support
+1859,237,0.4885486267335173,Medium,Regular academic progress monitoring
+939,238,0.48460528274487935,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+3349,239,0.4746445869138343,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+677,240,0.47419012055977794,Medium,Academic counselling and subject support
+1002,241,0.4712892416864913,Medium,Academic counselling and subject support
+2643,242,0.47030811781137155,Medium,Academic counselling and subject support
+1669,243,0.46886259860705864,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+2189,244,0.4667453842034469,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+31,245,0.4654271209262627,Medium,Regular academic progress monitoring
+217,246,0.4653491114823185,Medium,Academic counselling and subject support
+3649,247,0.4561423223263449,Medium,Academic counselling and subject support
+1395,248,0.4547183112059384,Medium,Academic counselling and subject support
+1400,249,0.45157270787870385,Medium,Academic counselling and subject support
+2236,250,0.4470889652223176,Medium,Academic counselling and subject support
+1820,251,0.440384555460074,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+3935,252,0.4385795619298696,Medium,Academic counselling and subject support
+3439,253,0.43790987848182583,Medium,Academic counselling and subject support
+4291,254,0.4365768112215893,Medium,Academic counselling and subject support
+3699,255,0.43219864206276254,Medium,Academic counselling and subject support
+2000,256,0.4316536374779399,Medium,Financial counselling and scholarship guidance
+92,257,0.4288421312121409,Medium,Academic counselling and subject support
+2198,258,0.42770247160565245,Medium,Academic counselling and subject support
+3723,259,0.42721499662282436,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+3581,260,0.4245017894205587,Medium,Financial counselling and scholarship guidance
+742,261,0.41824420001583873,Medium,Academic counselling and subject support
+3501,262,0.4167631151759292,Medium,Financial counselling and scholarship guidance
+3076,263,0.41511356833747154,Medium,Academic counselling and subject support
+3099,264,0.41171313436166823,Medium,Academic counselling and subject support
+2909,265,0.40875550958414913,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+392,266,0.408039100135657,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+4235,267,0.4071552263563209,Medium,Academic counselling and subject support
+4347,268,0.40625862769392124,Medium,Academic counselling and subject support
+1732,269,0.40012274039181034,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+2472,270,0.39869909367125156,Medium,Academic counselling and subject support
+3276,271,0.397999989322354,Medium,Academic counselling and subject support
+651,272,0.3966030257707606,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1113,273,0.3960051608365061,Medium,Academic counselling and subject support
+517,274,0.39578190613240727,Medium,Academic counselling and subject support
+1302,275,0.39348925830460074,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1591,276,0.39011624339754314,Medium,Academic counselling and subject support
+637,277,0.3897979266064539,Medium,Academic counselling and subject support
+3150,278,0.38783709748200007,Medium,Academic counselling and subject support
+1561,279,0.3859201976607888,Medium,Academic counselling and subject support
+2106,280,0.3858865908536344,Medium,Academic counselling and subject support
+4358,281,0.3857187705951456,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+3523,282,0.3839494919830706,Medium,Academic counselling and subject support
+2382,283,0.3836695868326366,Medium,Regular academic progress monitoring
+4204,284,0.38291773281305624,Medium,Academic counselling and subject support
+2904,285,0.3745329433118845,Medium,Academic counselling and subject support
+3843,286,0.37279250721108986,Medium,Academic counselling and subject support
+1044,287,0.37118666925604954,Medium,Academic counselling and subject support
+1375,288,0.36711024719050445,Medium,Academic counselling and subject support
+75,289,0.3632474609239699,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+652,290,0.36041117109577414,Medium,Academic counselling and subject support
+4128,291,0.3585857086103473,Medium,Academic counselling and subject support
+3739,292,0.3583009634565845,Medium,Academic counselling and subject support
+1031,293,0.34914475163696745,Medium,Academic counselling and subject support
+2996,294,0.34705420835492934,Medium,Academic counselling and subject support
+1463,295,0.3450828138329423,Medium,Academic counselling and subject support
+1688,296,0.3423600571035335,Medium,Academic counselling and subject support
+4189,297,0.3398910460901196,Medium,Academic counselling and subject support
+621,298,0.3372238671349239,Medium,Academic counselling and subject support
+988,299,0.33698506788536203,Medium,Academic counselling and subject support
+1187,300,0.3351194980400302,Medium,Academic counselling and subject support
+3954,301,0.3343681521796524,Medium,Academic counselling and subject support
+133,302,0.33428155244154983,Medium,Academic counselling and subject support
+743,303,0.3307314591846499,Medium,Academic counselling and subject support
+367,304,0.3300884712553018,Medium,Academic counselling and subject support
+3380,305,0.3269955824042996,Medium,Academic counselling and subject support
+361,306,0.3253855209809882,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+4373,307,0.3241185066701218,Medium,Academic counselling and subject support
+3697,308,0.3217635567172701,Medium,Academic counselling and subject support
+3612,309,0.3214412373636565,Medium,Academic counselling and subject support
+4213,310,0.3205810882218957,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1809,311,0.3202725051615579,Medium,Regular academic progress monitoring
+744,312,0.3161949881447239,Medium,Academic counselling and subject support
+2600,313,0.3116614026464664,Medium,Regular academic progress monitoring
+4119,314,0.3084286931629551,Medium,Academic counselling and subject support
+2814,315,0.305954730108252,Medium,Academic counselling and subject support
+2664,316,0.30494663286945334,Medium,Regular academic progress monitoring
+919,317,0.3021601420872832,Medium,Academic counselling and subject support
+421,318,0.2975717325617029,Medium,Regular academic progress monitoring
+2713,319,0.29738381599109615,Medium,Regular academic progress monitoring
+3993,320,0.29568573892789884,Medium,Financial counselling and scholarship guidance
+1511,321,0.29235031607334977,Medium,Academic counselling and subject support
+1518,322,0.2919514800053745,Medium,Academic counselling and subject support
+3831,323,0.2906115900975911,Medium,Academic counselling and subject support
+1774,324,0.2904408761301658,Medium,Academic counselling and subject support
+4386,325,0.29003586819035454,Medium,Academic counselling and subject support
+1993,326,0.2896424842487817,Medium,Regular academic progress monitoring
+2587,327,0.284898561401053,Medium,Academic counselling and subject support
+2691,328,0.2848209336605728,Medium,Regular academic progress monitoring
+3646,329,0.2781021433172157,Medium,Academic counselling and subject support
+2024,330,0.2773910962444477,Medium,Academic counselling and subject support
+108,331,0.27677863234224004,Medium,Academic counselling and subject support
+4352,332,0.27538596631780315,Medium,Regular academic progress monitoring
+3937,333,0.27319597031702303,Medium,Academic counselling and subject support
+2766,334,0.2725718488272911,Medium,Academic counselling and subject support
+1398,335,0.27046951673299396,Medium,Academic counselling and subject support
+3778,336,0.27044420398363683,Medium,Academic counselling and subject support
+2749,337,0.2696906712011027,Medium,Academic counselling and subject support
+4081,338,0.2675241678681143,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1276,339,0.2667433183111591,Medium,Academic counselling and subject support
+2496,340,0.2632521331501253,Medium,Academic counselling and subject support
+3633,341,0.2626548213904893,Medium,Academic counselling and subject support
+1893,342,0.26019232849476587,Medium,Academic counselling and subject support
+4407,343,0.25988430439682825,Medium,Regular academic progress monitoring
+1958,344,0.25811833472095796,Medium,Academic counselling and subject support
+191,345,0.2566304855020359,Medium,Academic counselling and subject support
+1350,346,0.2550862164474133,Medium,Academic counselling and subject support
+1939,347,0.25467503160487165,Medium,Academic counselling and subject support
+2386,348,0.24954793006797937,Medium,Academic counselling and subject support
+969,349,0.2492614007691248,Medium,Academic counselling and subject support
+3452,350,0.24739030110206478,Medium,Academic counselling and subject support
+3045,351,0.247275824912754,Medium,Academic counselling and subject support
+3734,352,0.24675716224612224,Medium,Academic counselling and subject support
+1471,353,0.24646856501610748,Medium,Academic counselling and subject support
+2596,354,0.246195488365255,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1837,355,0.24305161884742027,Medium,Academic counselling and subject support
+2607,356,0.242863839048873,Medium,Academic counselling and subject support
+356,357,0.24230799946414383,Medium,Academic counselling and subject support
+233,358,0.2414270069227113,Medium,Academic counselling and subject support
+2401,359,0.23764378633919406,Medium,Regular academic progress monitoring
+4259,360,0.23216630711983657,Medium,Academic counselling and subject support
+4015,361,0.22969202652573867,Medium,Academic counselling and subject support
+189,362,0.22905227290708516,Medium,Regular academic progress monitoring
+3625,363,0.2276663953487733,Medium,Academic counselling and subject support
+2879,364,0.22636140283351644,Medium,Academic counselling and subject support
+3240,365,0.22374330171126072,Medium,Academic counselling and subject support
+1567,366,0.2230055647254097,Medium,Academic counselling and subject support
+836,367,0.22009066268303748,Medium,Academic counselling and subject support
+1558,368,0.2194759187155323,Medium,Academic counselling and subject support
+3237,369,0.21803226525153457,Medium,Academic counselling and subject support
+1623,370,0.2179568149357614,Medium,Academic counselling and subject support
+631,371,0.21667222563885902,Medium,Academic counselling and subject support
+3447,372,0.2163122795115532,Medium,Academic counselling and subject support
+699,373,0.21563682328065145,Medium,Academic counselling and subject support
+4311,374,0.2155212215070261,Medium,Academic counselling and subject support
+4177,375,0.21372755017000014,Medium,Financial counselling and scholarship guidance
+3834,376,0.21339494416447563,Medium,Academic counselling and subject support
+591,377,0.2115182671750555,Medium,Academic counselling and subject support
+1969,378,0.2112928041635268,Medium,Regular academic progress monitoring
+641,379,0.21096825270723407,Medium,Academic counselling and subject support
+950,380,0.2105615597542463,Medium,Regular academic progress monitoring
+1338,381,0.20988723666636203,Medium,Academic counselling and subject support
+4184,382,0.207129478785256,Medium,Academic counselling and subject support
+3029,383,0.20702699465813715,Medium,Academic counselling and subject support
+2397,384,0.20578323751093008,Medium,Academic counselling and subject support
+2989,385,0.2050356244548678,Medium,Academic counselling and subject support
+2479,386,0.20482159644853595,Medium,Academic counselling and subject support
+1347,387,0.20107182376738159,Medium,Academic counselling and subject support
+1789,388,0.20098369777042008,Medium,Regular academic progress monitoring
+4061,389,0.19880415539831234,Medium,Academic counselling and subject support
+1107,390,0.19748725206365222,Medium,Financial counselling and scholarship guidance
+122,391,0.19577328971700836,Medium,Academic counselling and subject support
+89,392,0.19092261085254544,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+2507,393,0.19031255944049466,Medium,Academic counselling and subject support
+1761,394,0.19030503236638013,Medium,Academic counselling and subject support
+2018,395,0.1863520898417472,Medium,Academic counselling and subject support
+2616,396,0.18624558208788486,Medium,Academic counselling and subject support
+1442,397,0.186204232015226,Medium,Regular academic progress monitoring
+3442,398,0.18580208424473962,Medium,Regular academic progress monitoring
+1683,399,0.18540435458661725,Medium,Academic counselling and subject support
+2347,400,0.18419949237359423,Medium,Regular academic progress monitoring
+3284,401,0.1841548955805761,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+1954,402,0.18366896008397932,Medium,Academic counselling and subject support
+2433,403,0.18341662959205887,Medium,Academic counselling and subject support
+3999,404,0.182796686919327,Medium,Academic counselling and subject support
+3183,405,0.17985798736031688,Medium,Academic counselling and subject support
+323,406,0.1792139863093609,Medium,Academic counselling and subject support
+1152,407,0.17887029689224487,Medium,Academic counselling and subject support
+4278,408,0.17855836269498906,Medium,Financial counselling and scholarship guidance
+3528,409,0.17637551084247488,Medium,Academic counselling and subject support
+30,410,0.17559754009875572,Medium,Academic counselling and subject support
+680,411,0.17431349218568243,Medium,Regular academic progress monitoring
+728,412,0.17036801381464522,Medium,Academic counselling and subject support
+1530,413,0.16861064333984935,Medium,Academic counselling and subject support
+464,414,0.16829114094226033,Medium,Academic counselling and subject support
+3972,415,0.1677252997034087,Medium,Academic counselling and subject support
+869,416,0.1666387572530005,Medium,Academic counselling and subject support
+1801,417,0.16408313653441137,Medium,Regular academic progress monitoring
+2710,418,0.16363838198024822,Medium,Academic counselling and subject support
+3783,419,0.16353060962881968,Medium,Academic counselling and subject support
+3158,420,0.1631628602129308,Medium,Regular academic progress monitoring
+1843,421,0.16297483666284318,Medium,Financial counselling and scholarship guidance
+1439,422,0.16250301981915885,Medium,Academic counselling and subject support
+3326,423,0.1620209488466717,Medium,Academic counselling and subject support
+3312,424,0.16189173718560096,Medium,Academic counselling and subject support; Financial counselling and scholarship guidance
+248,425,0.1617596447678638,Medium,Regular academic progress monitoring
+4150,426,0.16107113912342472,Medium,Regular academic progress monitoring
+1097,427,0.16078733018546207,Medium,Academic counselling and subject support
+330,428,0.16046410428425606,Medium,Academic counselling and subject support
+1815,429,0.15825664924400376,Medium,Financial counselling and scholarship guidance
+3588,430,0.15743390776213959,Medium,Academic counselling and subject support
+908,431,0.1565844449092325,Medium,Academic counselling and subject support
+150,432,0.1559817227387172,Medium,Academic counselling and subject support
+2190,433,0.15587131101995577,Medium,Academic counselling and subject support
+1397,434,0.152610625992938,Medium,Financial counselling and scholarship guidance
+18,435,0.15135207494741354,Medium,Academic counselling and subject support
+750,436,0.15011767644255897,Medium,Academic counselling and subject support
+485,437,0.15005046272556222,Medium,Regular academic progress monitoring
+2213,438,0.14890762616888284,Medium,Academic counselling and subject support
+2837,439,0.147757153685421,Medium,Academic counselling and subject support
+3275,440,0.1467505457725556,Medium,Academic counselling and subject support
+1502,441,0.14552001016595686,Medium,Regular academic progress monitoring
+2204,442,0.14397142487770376,Medium,Academic counselling and subject support
+1472,443,0.14370614879951174,Medium,Regular academic progress monitoring
+4020,444,0.14272897772177243,Low,Academic counselling and subject support
+2657,445,0.14200398574474127,Low,Regular academic progress monitoring
+2938,446,0.14186846194229766,Low,Academic counselling and subject support
+1813,447,0.13958866672776707,Low,Regular academic progress monitoring
+370,448,0.13932046310541313,Low,Regular academic progress monitoring
+1191,449,0.13806411748453756,Low,Academic counselling and subject support
+2417,450,0.1379046722076968,Low,Regular academic progress monitoring
+1457,451,0.13767902095782386,Low,Academic counselling and subject support
+52,452,0.13620071107518966,Low,Academic counselling and subject support
+176,453,0.13606949243936126,Low,Academic counselling and subject support
+2247,454,0.13448334790038072,Low,Academic counselling and subject support
+629,455,0.13321180100580687,Low,Academic counselling and subject support
+1947,456,0.1317349639732313,Low,Academic counselling and subject support
+2220,457,0.1300445208985846,Low,Academic counselling and subject support
+2320,458,0.12991303850537195,Low,Academic counselling and subject support
+2777,459,0.12890515706395178,Low,Academic counselling and subject support
+167,460,0.12834552213494463,Low,Academic counselling and subject support
+664,461,0.12822281778678077,Low,Regular academic progress monitoring
+2297,462,0.12760004786749693,Low,Academic counselling and subject support
+1802,463,0.1275498874473501,Low,Academic counselling and subject support
+2724,464,0.12634305571305696,Low,Academic counselling and subject support
+215,465,0.12533494504472248,Low,Academic counselling and subject support
+4055,466,0.12516653724410015,Low,Academic counselling and subject support
+2855,467,0.12460209228400658,Low,Academic counselling and subject support
+463,468,0.1227241188772762,Low,Financial counselling and scholarship guidance
+3415,469,0.1226492103311032,Low,Academic counselling and subject support
+2965,470,0.12218612802957551,Low,Financial counselling and scholarship guidance
+830,471,0.12179682786921987,Low,Regular academic progress monitoring
+3730,472,0.12159013561146405,Low,Academic counselling and subject support
+2446,473,0.12135810735276505,Low,Regular academic progress monitoring
+2859,474,0.12132475335783084,Low,Academic counselling and subject support
+1545,475,0.11911309603752498,Low,Academic counselling and subject support
+4392,476,0.11802708620365254,Low,Academic counselling and subject support
+1800,477,0.11640647784786029,Low,Academic counselling and subject support
+2610,478,0.11532449617611407,Low,Academic counselling and subject support
+3971,479,0.11508992681184611,Low,Academic counselling and subject support
+74,480,0.1142807741843531,Low,Regular academic progress monitoring
+2851,481,0.11412182427053341,Low,Financial counselling and scholarship guidance
+1158,482,0.1122445824560142,Low,Academic counselling and subject support
+4269,483,0.11152985934151245,Low,Regular academic progress monitoring
+3644,484,0.1115068329265377,Low,Regular academic progress monitoring
+168,485,0.11133698128044832,Low,Academic counselling and subject support
+413,486,0.11089717460293175,Low,Regular academic progress monitoring
+976,487,0.11084432078235018,Low,Academic counselling and subject support
+3128,488,0.11083016729452823,Low,Financial counselling and scholarship guidance
+1005,489,0.11075165525013496,Low,Academic counselling and subject support
+3003,490,0.1105502051454585,Low,Regular academic progress monitoring
+4286,491,0.1102921161985784,Low,Regular academic progress monitoring
+3796,492,0.1101088964549709,Low,Regular academic progress monitoring
+2593,493,0.10904661200566854,Low,Academic counselling and subject support
+2002,494,0.10801553658080616,Low,Regular academic progress monitoring
+3136,495,0.10603596972561989,Low,Academic counselling and subject support
+1425,496,0.10600033356292406,Low,Academic counselling and subject support
+3209,497,0.10562864134021327,Low,Academic counselling and subject support
+2484,498,0.10444650679680967,Low,Regular academic progress monitoring
+4126,499,0.10344777815056665,Low,Academic counselling and subject support
+77,500,0.10313727978069324,Low,Financial counselling and scholarship guidance
+3392,501,0.10234971410006855,Low,Academic counselling and subject support
+4334,502,0.10204612553950905,Low,Regular academic progress monitoring
+1936,503,0.10112474827366652,Low,Regular academic progress monitoring
+2726,504,0.10073698995108808,Low,Academic counselling and subject support
+1418,505,0.10015939389157348,Low,Financial counselling and scholarship guidance
+1637,506,0.09952142565025818,Low,Academic counselling and subject support
+3249,507,0.0995129583742571,Low,Regular academic progress monitoring
+1919,508,0.09786222966070403,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+3338,509,0.09761655241273876,Low,Academic counselling and subject support
+662,510,0.09709992028923094,Low,Regular academic progress monitoring
+1523,511,0.09659121812823536,Low,Regular academic progress monitoring
+2973,512,0.0957976827157941,Low,Academic counselling and subject support
+2398,513,0.09521878454963395,Low,Regular academic progress monitoring
+3553,514,0.09470891395134819,Low,Financial counselling and scholarship guidance
+1166,515,0.09455776639175867,Low,Regular academic progress monitoring
+3902,516,0.09353114823339917,Low,Academic counselling and subject support
+3174,517,0.0932567499207864,Low,Academic counselling and subject support
+1346,518,0.09195623251664849,Low,Regular academic progress monitoring
+4247,519,0.09143259706188034,Low,Financial counselling and scholarship guidance
+4166,520,0.09140173640109371,Low,Academic counselling and subject support
+459,521,0.09116412073869413,Low,Regular academic progress monitoring
+2952,522,0.09047255004358912,Low,Regular academic progress monitoring
+1836,523,0.0904187051960954,Low,Academic counselling and subject support
+3917,524,0.09031920142594047,Low,Regular academic progress monitoring
+260,525,0.08962778138616088,Low,Regular academic progress monitoring
+617,526,0.08885254741542647,Low,Regular academic progress monitoring
+738,527,0.0886891873132788,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+3507,528,0.08828555005124752,Low,Regular academic progress monitoring
+3394,529,0.08824704005445001,Low,Academic counselling and subject support
+547,530,0.08767256722195606,Low,Financial counselling and scholarship guidance
+2126,531,0.08723087059866415,Low,Academic counselling and subject support
+799,532,0.08445628145747096,Low,Regular academic progress monitoring
+1956,533,0.08435118285547219,Low,Academic counselling and subject support
+3230,534,0.08353335854186142,Low,Academic counselling and subject support
+3280,535,0.08318469869005445,Low,Regular academic progress monitoring
+230,536,0.08300438573554207,Low,Regular academic progress monitoring
+902,537,0.08218344838863482,Low,Regular academic progress monitoring
+208,538,0.08203464747296578,Low,Regular academic progress monitoring
+2418,539,0.08198751272483407,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+2246,540,0.08054101043915113,Low,Academic counselling and subject support
+2978,541,0.07888736786776217,Low,Regular academic progress monitoring
+2755,542,0.07884532862373543,Low,Academic counselling and subject support
+3740,543,0.07839479917065444,Low,Academic counselling and subject support
+85,544,0.0778995829872039,Low,Academic counselling and subject support
+2291,545,0.0771873199958551,Low,Academic counselling and subject support
+4205,546,0.07709122766096614,Low,Academic counselling and subject support
+1250,547,0.07498347575568629,Low,Regular academic progress monitoring
+3738,548,0.07462375249585922,Low,Regular academic progress monitoring
+2062,549,0.07356234469703633,Low,Academic counselling and subject support
+598,550,0.07269634871692529,Low,Regular academic progress monitoring
+21,551,0.07215007512010586,Low,Regular academic progress monitoring
+3970,552,0.07207679312099541,Low,Regular academic progress monitoring
+2399,553,0.07121413983250023,Low,Regular academic progress monitoring
+429,554,0.07071335802648339,Low,Academic counselling and subject support
+3070,555,0.07056733479412901,Low,Regular academic progress monitoring
+3736,556,0.07008780771297057,Low,Regular academic progress monitoring
+654,557,0.068235917664858,Low,Academic counselling and subject support
+815,558,0.06799239960175235,Low,Regular academic progress monitoring
+4093,559,0.0679483019633897,Low,Regular academic progress monitoring
+1336,560,0.06788382225112186,Low,Academic counselling and subject support
+3402,561,0.06782406621627245,Low,Academic counselling and subject support
+1656,562,0.06768596376373516,Low,Regular academic progress monitoring
+3580,563,0.06746590774650241,Low,Academic counselling and subject support
+3653,564,0.06707776278381526,Low,Regular academic progress monitoring
+1756,565,0.06691468324877431,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+383,566,0.06630209263144018,Low,Regular academic progress monitoring
+4217,567,0.06582367808166625,Low,Regular academic progress monitoring
+3640,568,0.06555658063603918,Low,Regular academic progress monitoring
+3814,569,0.06553993183676719,Low,Academic counselling and subject support
+2880,570,0.06541730994422341,Low,Academic counselling and subject support
+3350,571,0.06540509593452343,Low,Regular academic progress monitoring
+3211,572,0.0653357688960616,Low,Academic counselling and subject support
+4018,573,0.06515361884093729,Low,Regular academic progress monitoring
+1271,574,0.0648128338281864,Low,Regular academic progress monitoring
+4195,575,0.0642804887525343,Low,Regular academic progress monitoring
+2806,576,0.06427884335535321,Low,Academic counselling and subject support
+492,577,0.06424210956522669,Low,Academic counselling and subject support
+1680,578,0.0640332778148311,Low,Academic counselling and subject support
+806,579,0.06374201946097952,Low,Regular academic progress monitoring
+3212,580,0.0637305489436641,Low,Regular academic progress monitoring
+1776,581,0.06371335389904428,Low,Regular academic progress monitoring
+216,582,0.06339049715457692,Low,Regular academic progress monitoring
+1314,583,0.06337962336468622,Low,Regular academic progress monitoring
+658,584,0.06265758331036556,Low,Academic counselling and subject support
+510,585,0.06182062459979748,Low,Academic counselling and subject support
+3929,586,0.06171800414088726,Low,Academic counselling and subject support
+2121,587,0.061530228357152085,Low,Financial counselling and scholarship guidance
+300,588,0.061491151502954075,Low,Regular academic progress monitoring
+2834,589,0.06128520440279368,Low,Regular academic progress monitoring
+3236,590,0.06127979145770362,Low,Regular academic progress monitoring
+2211,591,0.061226293543834506,Low,Regular academic progress monitoring
+3561,592,0.06106477427530674,Low,Regular academic progress monitoring
+921,593,0.06073421914057416,Low,Regular academic progress monitoring
+1577,594,0.06063107253326984,Low,Academic counselling and subject support
+1852,595,0.06056918653247391,Low,Regular academic progress monitoring
+4371,596,0.060512071706725824,Low,Regular academic progress monitoring
+1829,597,0.059303942605709314,Low,Academic counselling and subject support
+431,598,0.05907645057613336,Low,Regular academic progress monitoring
+3263,599,0.05893792326537391,Low,Academic counselling and subject support
+565,600,0.05872307605038412,Low,Regular academic progress monitoring
+3098,601,0.058711643310264995,Low,Academic counselling and subject support
+1181,602,0.05870777823919284,Low,Academic counselling and subject support
+1315,603,0.058658168573446086,Low,Academic counselling and subject support
+364,604,0.05829525543699705,Low,Academic counselling and subject support
+2990,605,0.05825763975677129,Low,Regular academic progress monitoring
+2373,606,0.058205864159074125,Low,Academic counselling and subject support
+1853,607,0.05792700606235206,Low,Regular academic progress monitoring
+2107,608,0.05788385897884972,Low,Regular academic progress monitoring
+335,609,0.05721691334057361,Low,Regular academic progress monitoring
+4026,610,0.0570122334681198,Low,Regular academic progress monitoring
+26,611,0.057008630730352096,Low,Regular academic progress monitoring
+138,612,0.05684066216183032,Low,Academic counselling and subject support
+2259,613,0.05672407070779441,Low,Regular academic progress monitoring
+1846,614,0.05667623309972411,Low,Regular academic progress monitoring
+3423,615,0.05646232662592914,Low,Regular academic progress monitoring
+849,616,0.056078414718923886,Low,Regular academic progress monitoring
+837,617,0.05566331495741353,Low,Academic counselling and subject support
+1657,618,0.055338324195430166,Low,Academic counselling and subject support
+3458,619,0.055333753989789396,Low,Academic counselling and subject support
+1974,620,0.05517156240375754,Low,Regular academic progress monitoring
+3945,621,0.05472993252938576,Low,Regular academic progress monitoring
+1735,622,0.05431194887764121,Low,Academic counselling and subject support
+4209,623,0.05408492683677158,Low,Regular academic progress monitoring
+2146,624,0.05399583004411411,Low,Academic counselling and subject support
+1785,625,0.05377047830238723,Low,Academic counselling and subject support
+54,626,0.05373822390569076,Low,Regular academic progress monitoring
+418,627,0.05365959800920477,Low,Academic counselling and subject support
+618,628,0.053595170227231335,Low,Academic counselling and subject support
+3919,629,0.0534128473157236,Low,Academic counselling and subject support
+3645,630,0.05311574128808942,Low,Regular academic progress monitoring
+4129,631,0.05260081558703694,Low,Academic counselling and subject support
+1009,632,0.05256083792274815,Low,Regular academic progress monitoring
+696,633,0.05145910194407202,Low,Regular academic progress monitoring
+1508,634,0.05142839663760888,Low,Regular academic progress monitoring
+2157,635,0.05140579803026333,Low,Regular academic progress monitoring
+4003,636,0.05127655946537264,Low,Academic counselling and subject support
+475,637,0.05123750944877044,Low,Academic counselling and subject support
+1692,638,0.051196990488661824,Low,Regular academic progress monitoring
+3719,639,0.05107152415105479,Low,Regular academic progress monitoring
+3627,640,0.05088127081325358,Low,Regular academic progress monitoring
+3080,641,0.05064805021617915,Low,Regular academic progress monitoring
+4041,642,0.05017763703341062,Low,Regular academic progress monitoring
+3259,643,0.049987630650367244,Low,Academic counselling and subject support
+4317,644,0.049958702890160904,Low,Regular academic progress monitoring
+3978,645,0.0494119967636877,Low,Regular academic progress monitoring
+540,646,0.04913403059460507,Low,Regular academic progress monitoring
+3921,647,0.048761974335662324,Low,Academic counselling and subject support
+3942,648,0.04857184597791828,Low,Regular academic progress monitoring
+484,649,0.048388149986500484,Low,Academic counselling and subject support
+809,650,0.0480575476408997,Low,Regular academic progress monitoring
+2768,651,0.0475338367505978,Low,Regular academic progress monitoring
+2554,652,0.04537584989603586,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+3226,653,0.04513876448579881,Low,Financial counselling and scholarship guidance
+925,654,0.04496445210255502,Low,Academic counselling and subject support
+4131,655,0.044424031884104556,Low,Academic counselling and subject support
+3238,656,0.044283799603169874,Low,Regular academic progress monitoring
+2186,657,0.04385617403234005,Low,Regular academic progress monitoring
+2927,658,0.043747989551992716,Low,Academic counselling and subject support
+4135,659,0.04371052601454465,Low,Academic counselling and subject support
+1206,660,0.043422516736953805,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+839,661,0.04289318773278169,Low,Regular academic progress monitoring
+2066,662,0.04287865691805878,Low,Regular academic progress monitoring
+1412,663,0.04262395134504577,Low,Academic counselling and subject support
+890,664,0.04244846032212283,Low,Regular academic progress monitoring
+611,665,0.042284854940328964,Low,Academic counselling and subject support
+2134,666,0.04220256170394532,Low,Academic counselling and subject support
+777,667,0.04204289232970206,Low,Academic counselling and subject support
+1075,668,0.04173508823703059,Low,Regular academic progress monitoring
+713,669,0.041400464092903135,Low,Academic counselling and subject support
+1141,670,0.041130251613221695,Low,Regular academic progress monitoring
+4112,671,0.04112634719280686,Low,Academic counselling and subject support
+2403,672,0.041018611489007296,Low,Academic counselling and subject support
+156,673,0.04078678208890308,Low,Regular academic progress monitoring
+242,674,0.040772646945871245,Low,Regular academic progress monitoring
+2049,675,0.040509344871129276,Low,Academic counselling and subject support
+673,676,0.039809692624010524,Low,Regular academic progress monitoring
+1149,677,0.03940853945117442,Low,Academic counselling and subject support
+759,678,0.039248024822300435,Low,Academic counselling and subject support
+4006,679,0.03776584432628832,Low,Regular academic progress monitoring
+2045,680,0.037757165030781505,Low,Academic counselling and subject support
+1648,681,0.03742218929785651,Low,Regular academic progress monitoring
+3895,682,0.03738063093459646,Low,Academic counselling and subject support
+3285,683,0.03696630591287953,Low,Regular academic progress monitoring
+2467,684,0.036891089864289656,Low,Academic counselling and subject support
+820,685,0.03683732805095786,Low,Regular academic progress monitoring
+843,686,0.03673237436907774,Low,Academic counselling and subject support
+3897,687,0.036404865541458574,Low,Regular academic progress monitoring
+2048,688,0.03616155356167365,Low,Regular academic progress monitoring
+3271,689,0.03592565631019137,Low,Academic counselling and subject support
+2082,690,0.035637834447396016,Low,Regular academic progress monitoring
+2054,691,0.03523787284820247,Low,Regular academic progress monitoring
+256,692,0.03497893045693563,Low,Regular academic progress monitoring
+2812,693,0.03488153785374089,Low,Regular academic progress monitoring
+1401,694,0.03457096784197349,Low,Regular academic progress monitoring
+1383,695,0.03444243309441083,Low,Academic counselling and subject support
+1817,696,0.0342884877398939,Low,Regular academic progress monitoring
+3908,697,0.03427851797843833,Low,Financial counselling and scholarship guidance
+2868,698,0.03419579786528838,Low,Academic counselling and subject support
+4272,699,0.034175495683252614,Low,Academic counselling and subject support
+985,700,0.034080722733716894,Low,Academic counselling and subject support
+1438,701,0.033647621892430396,Low,Regular academic progress monitoring
+4149,702,0.033632833849929385,Low,Academic counselling and subject support
+880,703,0.03330017422365671,Low,Regular academic progress monitoring
+2164,704,0.032956741181218004,Low,Regular academic progress monitoring
+796,705,0.03287794296958349,Low,Regular academic progress monitoring
+3130,706,0.0327974029317458,Low,Regular academic progress monitoring
+2942,707,0.03230881924762237,Low,Regular academic progress monitoring
+1454,708,0.03225114658045618,Low,Academic counselling and subject support
+3918,709,0.0321600582234542,Low,Academic counselling and subject support
+84,710,0.031970482527223405,Low,Regular academic progress monitoring
+2800,711,0.03119083248686355,Low,Regular academic progress monitoring
+2133,712,0.030874861512302825,Low,Regular academic progress monitoring
+450,713,0.030647672588226215,Low,Academic counselling and subject support
+3885,714,0.030377215389658974,Low,Financial counselling and scholarship guidance
+1199,715,0.03026739522067247,Low,Regular academic progress monitoring
+3303,716,0.030264830894283397,Low,Regular academic progress monitoring
+707,717,0.030162451098566922,Low,Regular academic progress monitoring
+2828,718,0.029599371678472115,Low,Regular academic progress monitoring
+1150,719,0.029112454537040526,Low,Regular academic progress monitoring
+1738,720,0.029095404607114572,Low,Regular academic progress monitoring
+3002,721,0.02865922007935677,Low,Regular academic progress monitoring
+416,722,0.028583158400094455,Low,Regular academic progress monitoring
+1264,723,0.028251749299372547,Low,Academic counselling and subject support
+3906,724,0.027983629411099865,Low,Academic counselling and subject support
+3134,725,0.027719442974292064,Low,Regular academic progress monitoring
+2736,726,0.027541384478520985,Low,Regular academic progress monitoring
+1119,727,0.02739805306519354,Low,Academic counselling and subject support
+286,728,0.027071391449427426,Low,Regular academic progress monitoring
+3891,729,0.026955067914383263,Low,Regular academic progress monitoring
+3123,730,0.026928774946105904,Low,Academic counselling and subject support
+1068,731,0.026740855054806334,Low,Regular academic progress monitoring
+2271,732,0.026692827298779177,Low,Regular academic progress monitoring
+3104,733,0.026222795918065537,Low,Regular academic progress monitoring
+3393,734,0.026105201205993283,Low,Regular academic progress monitoring
+4416,735,0.026104431930364748,Low,Academic counselling and subject support
+1266,736,0.02589581167050312,Low,Regular academic progress monitoring
+3675,737,0.025852854064386782,Low,Regular academic progress monitoring
+4396,738,0.025518156617253446,Low,Regular academic progress monitoring
+273,739,0.025458116180072907,Low,Regular academic progress monitoring
+2028,740,0.024696865290086894,Low,Academic counselling and subject support
+1909,741,0.02467373301985024,Low,Academic counselling and subject support
+3059,742,0.024640687352679966,Low,Academic counselling and subject support
+555,743,0.024409907721224172,Low,Regular academic progress monitoring
+2431,744,0.024395109247592674,Low,Regular academic progress monitoring
+4175,745,0.024374016979660185,Low,Academic counselling and subject support
+760,746,0.02424602308710162,Low,Regular academic progress monitoring
+1053,747,0.024222011558999664,Low,Regular academic progress monitoring
+3100,748,0.024091523978751955,Low,Regular academic progress monitoring
+408,749,0.02395884491709568,Low,Regular academic progress monitoring
+2537,750,0.023343828068689364,Low,Regular academic progress monitoring
+1428,751,0.02323237368209526,Low,Academic counselling and subject support
+1010,752,0.02293030122393444,Low,Regular academic progress monitoring
+1406,753,0.022824804181744575,Low,Academic counselling and subject support
+1171,754,0.022338043820635162,Low,Academic counselling and subject support
+4022,755,0.022243428311895682,Low,Regular academic progress monitoring
+3379,756,0.021760548316098065,Low,Academic counselling and subject support
+4178,757,0.021655938525073387,Low,Regular academic progress monitoring
+2775,758,0.021617320879472164,Low,Academic counselling and subject support
+2770,759,0.021528507638144498,Low,Regular academic progress monitoring
+4013,760,0.02148848485714888,Low,Regular academic progress monitoring
+3685,761,0.021300162788955666,Low,Regular academic progress monitoring
+731,762,0.02029888964268906,Low,Academic counselling and subject support
+4325,763,0.02000622808348972,Low,Academic counselling and subject support
+1041,764,0.019924251849177864,Low,Academic counselling and subject support
+144,765,0.019769757944806184,Low,Regular academic progress monitoring
+865,766,0.019493099218331113,Low,Regular academic progress monitoring
+905,767,0.01932664890364153,Low,Regular academic progress monitoring
+2548,768,0.019239843487153973,Low,Regular academic progress monitoring
+41,769,0.019233415182218203,Low,Regular academic progress monitoring
+570,770,0.018825411695989214,Low,Regular academic progress monitoring
+3178,771,0.018465457992066284,Low,Academic counselling and subject support
+3620,772,0.01839178940962253,Low,Academic counselling and subject support
+333,773,0.01833243973225181,Low,Regular academic progress monitoring
+2791,774,0.01802187314915932,Low,Regular academic progress monitoring
+3587,775,0.017839109307839527,Low,Regular academic progress monitoring
+1139,776,0.017685046841021075,Low,Regular academic progress monitoring
+4173,777,0.01733501761807849,Low,Regular academic progress monitoring
+355,778,0.017323860279138275,Low,Regular academic progress monitoring
+1811,779,0.017117806058914938,Low,Regular academic progress monitoring
+3361,780,0.017074905539675462,Low,Regular academic progress monitoring
+3017,781,0.017064385567985216,Low,Regular academic progress monitoring
+2861,782,0.016939010297544427,Low,Regular academic progress monitoring
+3598,783,0.016811844237808453,Low,Regular academic progress monitoring
+289,784,0.01669482327461533,Low,Regular academic progress monitoring
+1614,785,0.016450707262432165,Low,Regular academic progress monitoring
+1973,786,0.016430994063656956,Low,Regular academic progress monitoring
+214,787,0.0162484800762984,Low,Regular academic progress monitoring
+1468,788,0.0161078637366587,Low,Regular academic progress monitoring
+2804,789,0.016046074094113745,Low,Regular academic progress monitoring
+1256,790,0.01602997623761074,Low,Regular academic progress monitoring
+245,791,0.015828381518824867,Low,Regular academic progress monitoring
+3015,792,0.015722339354200577,Low,Regular academic progress monitoring
+3105,793,0.015612965319948338,Low,Regular academic progress monitoring
+1618,794,0.015418756827538228,Low,Regular academic progress monitoring
+1641,795,0.015406619816356078,Low,Regular academic progress monitoring
+2091,796,0.015174579398576735,Low,Regular academic progress monitoring
+1006,797,0.014773341755445054,Low,Academic counselling and subject support
+1422,798,0.014367114664808181,Low,Regular academic progress monitoring
+1663,799,0.014270577601194257,Low,Regular academic progress monitoring
+773,800,0.014032627338014449,Low,Regular academic progress monitoring
+4230,801,0.013742793065183351,Low,Regular academic progress monitoring
+1560,802,0.01318267007546787,Low,Regular academic progress monitoring
+2639,803,0.013057748054861972,Low,Regular academic progress monitoring
+1899,804,0.012755860482421237,Low,Academic counselling and subject support
+3762,805,0.012691664236099489,Low,Regular academic progress monitoring
+632,806,0.012598637452207318,Low,Regular academic progress monitoring
+351,807,0.012574179227599964,Low,Regular academic progress monitoring
+274,808,0.012508095241110366,Low,Regular academic progress monitoring
+1981,809,0.012452893818769437,Low,Regular academic progress monitoring
+3304,810,0.012398441459486776,Low,Regular academic progress monitoring
+244,811,0.012297674266875069,Low,Academic counselling and subject support
+3034,812,0.012024254562785261,Low,Regular academic progress monitoring
+2117,813,0.011744922261090604,Low,Regular academic progress monitoring
+776,814,0.010701265817380996,Low,Regular academic progress monitoring
+499,815,0.010314825451603265,Low,Regular academic progress monitoring
+1012,816,0.010265415255013403,Low,Regular academic progress monitoring
+3082,817,0.010224125603162543,Low,Academic counselling and subject support
+3096,818,0.010127661338850891,Low,Regular academic progress monitoring
+770,819,0.009903715182224639,Low,Regular academic progress monitoring
+667,820,0.009502182736013607,Low,Regular academic progress monitoring
+1937,821,0.009493418543032968,Low,Academic counselling and subject support
+1783,822,0.00921031085552875,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+3301,823,0.00910484312437704,Low,Regular academic progress monitoring
+2310,824,0.008898028436168883,Low,Regular academic progress monitoring
+2839,825,0.008764284280674004,Low,Regular academic progress monitoring
+3997,826,0.008735293695218544,Low,Regular academic progress monitoring
+295,827,0.0085351560133916,Low,Academic counselling and subject support
+3308,828,0.008431579973345217,Low,Regular academic progress monitoring
+2870,829,0.008401073964327134,Low,Regular academic progress monitoring
+1566,830,0.008345636504480641,Low,Regular academic progress monitoring
+3764,831,0.008235306568858956,Low,Regular academic progress monitoring
+1796,832,0.008233756190261515,Low,Regular academic progress monitoring
+2619,833,0.008028821589126328,Low,Regular academic progress monitoring
+3222,834,0.007993970986365303,Low,Regular academic progress monitoring
+3480,835,0.007695056943033092,Low,Regular academic progress monitoring
+3642,836,0.007590243326611799,Low,Regular academic progress monitoring
+4320,837,0.007300896539161642,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+3144,838,0.00725622455533947,Low,Regular academic progress monitoring
+3926,839,0.007239958383768869,Low,Regular academic progress monitoring
+3983,840,0.007196111597684734,Low,Regular academic progress monitoring
+1550,841,0.006868132942099256,Low,Regular academic progress monitoring
+3753,842,0.006766773572517514,Low,Academic counselling and subject support
+782,843,0.006696593265989618,Low,Regular academic progress monitoring
+2924,844,0.006692490178371342,Low,Academic counselling and subject support
+1224,845,0.006422258745476196,Low,Regular academic progress monitoring
+414,846,0.006007246448396729,Low,Regular academic progress monitoring
+423,847,0.005998520008754289,Low,Regular academic progress monitoring
+852,848,0.00556163990249938,Low,Regular academic progress monitoring
+1070,849,0.0055160360486616634,Low,Regular academic progress monitoring
+201,850,0.005252666053353205,Low,Regular academic progress monitoring
+961,851,0.005215903601374407,Low,Regular academic progress monitoring
+3621,852,0.00517926645018308,Low,Regular academic progress monitoring
+446,853,0.0050072804825092385,Low,Regular academic progress monitoring
+420,854,0.004948982533986101,Low,Regular academic progress monitoring
+2841,855,0.004933059851663167,Low,Regular academic progress monitoring
+3678,856,0.004932885739932737,Low,Regular academic progress monitoring
+1017,857,0.004830328286187841,Low,Regular academic progress monitoring
+3457,858,0.004605617703718242,Low,Regular academic progress monitoring
+291,859,0.003824822128169683,Low,Financial counselling and scholarship guidance
+2111,860,0.0033160599361321055,Low,Regular academic progress monitoring
+278,861,0.003242250647811973,Low,Regular academic progress monitoring
+1212,862,0.002697470385612825,Low,Regular academic progress monitoring
+4062,863,0.0023233855767721715,Low,Regular academic progress monitoring
+1100,864,0.0023117489309511154,Low,Academic counselling and subject support
+1984,865,0.002161229376205305,Low,Regular academic progress monitoring
+3476,866,0.0016177697508319578,Low,Financial counselling and scholarship guidance
+3241,867,0.0015639081083720972,Low,Academic counselling and subject support
+2550,868,0.0015277792400436548,Low,Academic counselling and subject support
+891,869,0.001450823199060841,Low,Academic counselling and subject support; Financial counselling and scholarship guidance
+252,870,0.001073114393663961,Low,Regular academic progress monitoring
+1901,871,0.0007512317282776668,Low,Academic counselling and subject support
+3570,872,0.0005673988942595876,Low,Academic counselling and subject support
+778,873,0.0004494183317200736,Low,Academic counselling and subject support
+3475,874,0.00026760331244696207,Low,Regular academic progress monitoring
+4316,875,0.00018472940996350508,Low,Financial counselling and scholarship guidance
+199,876,0.00015178758507429624,Low,Regular academic progress monitoring
+3930,877,0.00014466876901510334,Low,Regular academic progress monitoring
+633,878,0.00013072463974392974,Low,Financial counselling and scholarship guidance
+4044,879,3.356021900457936e-05,Low,Financial counselling and scholarship guidance
+2453,880,3.0496436534571563e-05,Low,Regular academic progress monitoring
+1977,881,1.2331719105238124e-05,Low,Regular academic progress monitoring
+2113,882,2.049187937374455e-06,Low,Financial counselling and scholarship guidance
+977,883,4.1421594225423705e-08,Low,Regular academic progress monitoring
+3518,884,3.842130775613418e-08,Low,Academic counselling and subject support
+747,885,4.643593829191471e-10,Low,Regular academic progress monitoring
